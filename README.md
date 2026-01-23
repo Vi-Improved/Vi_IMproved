@@ -19,5 +19,5 @@
     4. Bootstrap (for CSS)
 ___________________________________________________________________________________________
 By the way, if you want to contact with me, you can use:
-- Discord: scp_chaosit
-- Telegram: t.me/YuuBestFriend
+- Discord: not using anymore, sorry
+- Telegram: t.me/QuteJavaDeveloper
