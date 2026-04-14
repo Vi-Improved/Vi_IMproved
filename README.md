@@ -5,19 +5,13 @@
 1. C-like languages:
     1. C
     2. C++
-    3. Java
-    4. JavaScript
-    5. TypeScript
-2. Languages for web developement:
-    1. HTML (HyperText Markup Language)
-    2. CSS (Cascading Style Sheets)
-3. Scripting language for Unix - bash
-4. A few libraries and frameworks:
-    1. Spring (for Java)
-    2. Express js with node js (for JavaScript. And yeah, I know what node js is not library or framework! Express is useless without node js!)
-    3. React (for JavaScript)
-    4. Bootstrap (for CSS)
+    3. Assembly
+2. Scripting language for Unix - bash
+3. A few libraries:
+    1. curl for C/C++
+    2. OpenGL (with GLFW) for C/C++
+    3. default utils for network requests (like sys/socket.h for C)
 ___________________________________________________________________________________________
 By the way, if you want to contact with me, you can use:
-- Discord: not using anymore, sorry
-- Telegram: t.me/QuteJavaDeveloper
+- Discord: nickname is qute_dev
+- Telegram: t.me/qut1e_p1e
