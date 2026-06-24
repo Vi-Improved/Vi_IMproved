@@ -1,17 +1,16 @@
 # Hello
-### I'm ordinary, starting programmer. I want to support open-source projects, because I'm using Arch Linux, and I don't like proprietary soft.
+### I'm ordinary, starting programmer.
 ### Okay, what I want from my live? What programming languages I want to learn?
 
 1. C-like languages:
     1. C
-    2. C++
-    3. Assembly
+    2. Rust
+    3. Go
+    4. Fortran
+    5. Assembly
+    6. Rust
 2. Scripting language for Unix - bash
-3. A few libraries:
-    1. curl for C/C++
-    2. OpenGL (with GLFW) for C/C++
-    3. default utils for network requests (like sys/socket.h for C)
 ___________________________________________________________________________________________
 By the way, if you want to contact with me, you can use:
-- Discord: nickname is qute_dev
-- Telegram: t.me/qut1e_p1e
+- Discord: nickname is vi_improved
+- Telegram: t.me/VIM_MOTION
